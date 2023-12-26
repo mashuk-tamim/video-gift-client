@@ -9,6 +9,8 @@ export default {
 			backgroundImage: {
 				"banner-gradient":
 					"linear-gradient(13deg, #E9E9EB 10%, #E9E9EB 30%,#E9E9EB 10%,  rgba(229, 231, 235, 0.00) 90%)",
+				"card-gradient":
+					"linear-gradient(90deg, #E9E9EB 10%, rgba(229, 231, 235, 0.00) 90%)",
 			},
 			colors: {
 				grayText: "#71717a",

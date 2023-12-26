@@ -3,7 +3,7 @@ import logo from '../../../assets/images/videogift_1.svg'
 const Navbar = () => {
     return (
 		<section>
-			<div className="flex fixed justify-between px-20 py-5 w-screen">
+			<div className="flex fixed justify-between px-20 py-5 w-screen z-10">
 				<div>
 					<img src={logo} alt="logo" />
 				</div>
