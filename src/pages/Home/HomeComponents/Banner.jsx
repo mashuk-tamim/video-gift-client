@@ -2,8 +2,8 @@ import { FaPlay } from "react-icons/fa6";
 
 const Banner = () => {
 	return (
-		<div className="">
-			<div className="w-full h-screen bg-[url('https://i.ibb.co/KGhqhvp/image-10.png')] bg-cover bg-center">
+		<section className="">
+			<div className="w-full h-screen bg-[url('https://i.ibb.co/KGhqhvp/image-10.png')] bg-cover">
 				<div className="w-full h-full flex flex-col  justify-center items-start bg-banner-gradient text-grayText px-20">
 					<p className="uppercase font-bold">This is videogift</p>
 					<h1 className="text-5xl font-bold py-10">
@@ -25,7 +25,7 @@ const Banner = () => {
 					</div>
 				</div>
 			</div>
-		</div>
+		</section>
 	);
 };
 

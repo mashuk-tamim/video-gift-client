@@ -8,10 +8,13 @@ export default {
 			},
 			backgroundImage: {
 				"banner-gradient":
-					"linear-gradient(61deg, #E9E9EB 38.45%, rgba(229, 231, 235, 0.00) 78.48%)",
+					"linear-gradient(13deg, #E9E9EB 10%, #E9E9EB 30%,#E9E9EB 10%,  rgba(229, 231, 235, 0.00) 90%)",
 			},
 			colors: {
 				grayText: "#71717a",
+			},
+			grayscale: {
+				50: "50%",
 			},
 		},
 	},
